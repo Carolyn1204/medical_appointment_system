@@ -35,3 +35,12 @@ Doctor: Login, Check the appointment List, Confirm an appointment, Cancel an app
 # Demo:
 
 https://github.com/Carolyn1204/medical_appointment_system/blob/main/demo.mp4
+
+# Contributing
+This project is for demonstration purposes, but contributions are welcome. If you have suggestions or improvements, feel free to fork the repository, make your changes, and create a pull request.
+
+# License
+This project is not currently licensed. It is for educational purposes and demonstration only. Use it as a reference and exercise in object-oriented programming.
+
+# Contact
+If you have any questions or feedback, you can reach out to me:
