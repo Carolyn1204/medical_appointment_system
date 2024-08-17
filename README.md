@@ -33,3 +33,5 @@ Doctor: Login, Check the appointment List, Confirm an appointment, Cancel an app
 • Ensure responsiveness and accessibility across different devices and browsers.\
 
 # Demo:
+
+https://github.com/Carolyn1204/medical_appointment_system/blob/main/demo.mp4
